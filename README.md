@@ -1,4 +1,4 @@
-# Deploy VPC with public-private subnet Architecture
+# VPC deployment using public-private subnet Architecture
 ![AWS_VPC](https://github.com/Maheshkumar-W/AWS_Project/assets/101307468/37867653-f8c5-463b-a57e-5742b3fee8a8)
 
 # About the Project
