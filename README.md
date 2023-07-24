@@ -2,13 +2,13 @@
 ![AWS_VPC](https://github.com/Maheshkumar-W/AWS_Project/assets/101307468/37867653-f8c5-463b-a57e-5742b3fee8a8)
 
 # About the Project
-In this Project we will demostrate how to create a VPC that you can use for servers in a production environment.
+In this Project i have demostrated how to create a VPC that you can use for servers in a production environment.
 
 To improve resiliency, you deploy the servers in two Availability Zones, by using an Auto Scaling group and an Application Load Balancer. For additional security, you deploy the servers in private subnets. 
 
 The servers receive requests through the load balancer. The servers can connect to the internet by using a NAT gateway. To improve resiliency, you deploy the NAT gateway in both Availability Zones.
 
-# Services used in the Project :
+# AWS Services used in the Project :
 1.VPC (Virtual Private Cloud)
 
 2.Auto Scaling Group
@@ -49,8 +49,8 @@ The servers receive requests through the load balancer. The servers can connect 
  
 # My Learnings & Key-Takeaways
 By implementing this project, I have gained hands-on experience :
-- In setting up a secure VPC with EC2 instances
-- Implementing networking and routing
+- In setting up a secure VPC with EC2 instances.
+- Implementing networking and routing techniques.
 - Configuring security groups and IAM roles to ensure proper access control. 
 
-This project has helped me to develop a  practical understanding of how these AWS services work together to create a secure and scalable infrastructure for your applications.
+This project has helped me to develop a practical understanding of how these AWS services work together to create a secure and scalable infrastructure for my applications.
