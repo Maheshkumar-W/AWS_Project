@@ -51,7 +51,7 @@ The servers receive requests through the load balancer. The servers can connect 
 By implementing this project, I have gained hands-on experience :
 - In setting up a secure VPC with EC2 instances.
 - Implementing networking and routing techniques.
-- Configuring security groups and IAM roles to ensure proper access control. \
+- Configuring security groups and IAM roles to ensure proper access control.
 
 This project has helped me to develop a practical understanding of how these AWS services work together to create a secure and scalable infrastructure for my applications.
 
