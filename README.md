@@ -56,3 +56,6 @@ By implementing this project, I have gained hands-on experience :
 This project has helped me to develop a practical understanding of how these AWS services work together to create a secure and scalable infrastructure for my applications.
 
 🎯 I'm thrilled with the successful implementation of this project and the valuable experience gained. 🎉 ✨
+
+# Reference
+[Click here](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-example-private-subnets-nat.html)
