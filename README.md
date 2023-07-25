@@ -1,5 +1,5 @@
 # Deploy a VPC with public-private subnet Architecture
-![AWS_VPC](https://github.com/Maheshkumar-W/AWS_Project/assets/101307468/37867653-f8c5-463b-a57e-5742b3fee8a8)
+![AWS_VPC](https://github.com/Maheshkumar-W/AWS_Project/assets/101307468/031ed992-8ae0-4088-9922-b31cb75611ac)
 
 # About the Project
 In this Project i have demostrated how to create a VPC that you can use for servers in a production environment.
