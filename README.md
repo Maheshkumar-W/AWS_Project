@@ -57,7 +57,7 @@ This project has helped me to develop a practical understanding of how these AWS
 
 🎯 I'm thrilled with the successful implementation of this project and the valuable experience gained. 🎉 ✨
 
-# Interested to know complete step-by-step guide of my AWS_Project ?
+# Interested to get complete step-by-step guide of my AWS_Project ?
 [Click here](https://app.tango.us/app/workflow/Deploy-a-VPC-with-public-private-subnet-Architecture-93a05eb927274ffbaff66229c1d34b4d)
 
 # Reference
